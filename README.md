@@ -1,5 +1,17 @@
+Step 1:
+git clone https://github.com/prasad0808/aws_eks_terraform.git
+
+Step 2:
 terraform.tfvars
 
 aws_access_key = "place_your_aws_access_key"
 
 aws_secret_key = "place_your_aws_secret_key"
+
+step 3:
+
+terraform init
+
+terraform plane 
+
+terraform apply --auto-approve
