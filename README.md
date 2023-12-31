@@ -12,6 +12,6 @@ step 3:
 
 terraform init
 
-terraform plane 
+terraform plan
 
 terraform apply --auto-approve
