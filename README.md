@@ -1,5 +1,5 @@
 Step 1:
-git clone https://github.com/prasad0808/aws_eks_terraform.git
+git clone [https://github.com/prasad0808/aws_eks_terraform.git](https://github.com/prasad-moru/aws_eks_terraform.git)
 
 Step 2:
 terraform.tfvars
